@@ -1,0 +1,7 @@
+DATABASE_PATH = "shop.db"
+UPLOAD_DIR = "uploads"
+
+MAILGUN_DOMAIN = "mg.shop.example"
+MAILGUN_API_KEY = "key-3ax6xnjp29jd6fds4gc373sgvjxteol0"
+
+REPORTS_SERVICE_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyZXBvcnRzLWJvdCIsImlhdCI6MTcwMDAwMDAwMH0.Zk3n9vQ2Xw8bT1yL5mR7pA4sD6fG0hJ2kL9nB3vC1xE"
